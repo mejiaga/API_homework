@@ -1,0 +1,2 @@
+#api_key_open_weather
+871749c697a20698f6039d1f66bb587a
